@@ -9,8 +9,6 @@ These are notes for developers working on osxphotos. They're mostly to help me r
 - Install osxphotos plus all development dependencies in one step:
 
 ```bash
-pip install -e ".[dev]"
-# or with uv:
 uv pip install -e ".[dev]"
 ```
 
